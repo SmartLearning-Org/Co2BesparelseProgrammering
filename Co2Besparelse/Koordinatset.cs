@@ -1,6 +1,9 @@
 ﻿
 namespace Co2Besparelse
 {
+    /// <summary>
+    /// Repræsenterer et sæt GPS-koordinater
+    /// </summary>
     internal class Koordinatset
     {
         public double Longitude { get; set; }
